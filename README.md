@@ -11,8 +11,8 @@
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <div align="center">
-  <a href="[https://www.linkedin.com/in/zane-pearton](https://www.linkedin.com/in/buddhi-gayan-76b336203/)">
-    <img src="https://www.linkedin.com/in/buddhi-gayan-76b336203?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/buddhi-gayan-76b336203/">
+    <img src="https://www.linkedin.com/in/buddhi-gayan-76b336203/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://linktr.ee/zanepearton">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
